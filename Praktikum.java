@@ -1,3 +1,5 @@
-public status Praktikum {
-	
+public class Praktikum {
+	public status void main (String[] args){
+		 
+	}
 }
